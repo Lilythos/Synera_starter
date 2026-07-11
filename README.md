@@ -1,8 +1,4 @@
-# Synera: Synergy Auto-Arena
-
-## 基本信息
-姓名：唐誉祯
-学号：251880296
+# Synera
 
 ## 文件结构
 
